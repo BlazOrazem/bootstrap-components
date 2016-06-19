@@ -1,3 +1,3 @@
-# Gulp Setup
+# Bootstrap Components
 
-Basic setup for Gulp with Less and Bootstrap.
+Examples for Bootstrap components.
